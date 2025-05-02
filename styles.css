@@ -1,6 +1,8 @@
 html,
 body {
+  margin: auto;
   background-color: 800080;
+  font-family: sans-serif;
 }
 h1 {
   text-align: center;
