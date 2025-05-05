@@ -11,6 +11,9 @@ h1 {
 main {
   background-color: #b8b8ff;
 }
+img {
+  width: 100%;
+}
 footer {
   height: 20px;
 }
