@@ -14,6 +14,9 @@ main {
 img {
   width: 80%;
 }
+dt::after {
+  content: ": ";
+}
 footer {
   height: 20px;
 }
