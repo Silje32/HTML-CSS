@@ -20,7 +20,7 @@ img {
   width: 80%;
 }
 img {
-  width: 100px;
+  width: 200px;
 }
 dt::after {
   content: ": ";
